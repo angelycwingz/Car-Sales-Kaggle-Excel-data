@@ -16,4 +16,4 @@ Car_Sales_Dashboard: In this sheet, a **Dashboard** is created using 4 charts an
 1. Bar Chart: It is displaying Average Price and Year Resale Value of German Car Models.
 2. Pie Chart: It is displaying Price Retention Percent of Car models.
 3. Column Chart: It is displaying Power Perf Factor of Car models.
-4. Sunbust Chart: It is displaying Unit Sales of Car models.
+4. Sunburst Chart: It is displaying Unit Sales of Car models.
