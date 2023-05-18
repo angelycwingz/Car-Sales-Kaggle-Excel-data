@@ -12,4 +12,8 @@ Car_Sales_Kaggle: 4 sheets are created from original Car_sales sheet, namely Col
 
 German_Car_Sales_Analysis: 3 sheets are created from original Car_sales sheet, namely Treemap Chart, Scatter Chart, and Histogram Chart respectively.
 
-1. Treemap chart Sheet: In this sheet, cars are filtered down to only Nissan cars by Manufacturer column; and then a Column chart is generated displaying the Power Perf Factor of Toyota cars.
+1. Treemap Chart sheet: In this sheet, cars are filtered down to only Mercedes-Benz cars by Manufacturer column; and then a Treemap chart is generated displaying the Unit Sales of Mercedes-Benz car Models.
+
+2. Scatter Chart sheet: In this sheet, cars are filtered down to **Audi, BMW, Mercedes-B, Porsche, Volkswagen** cars by Manufacturer column; and then Price is compared with Resale Value using Scatter chart.
+
+3. Histogram Chart sheet: In this sheet, cars are filtered down to **Audi, BMW, Mercedes-B, Porsche, Volkswagen** cars by Manufacturer column; and then a Histogram chart is used to display the Count of German Car Models by 3 equally distributed Price ranges.
