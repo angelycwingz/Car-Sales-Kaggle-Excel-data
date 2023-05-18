@@ -1,5 +1,5 @@
 # Car-Sales-Kaggle-Excel-data
-Car_Sales_Kaggle: 4 sheetsare created from original Car_sales sheet, namely Column Chart, Area Chart, Bar Chart, and Line Chart respectively.
+Car_Sales_Kaggle: 4 sheets are created from original Car_sales sheet, namely Column Chart, Area Chart, Bar Chart, and Line Chart respectively.
 
 1. Column Chart sheet: In this sheet, cars are filtered down to only Toyota cars by Manufacturer column; and then a Column chart is generated displaying the Power Perf Factor of Toyota cars.
 
