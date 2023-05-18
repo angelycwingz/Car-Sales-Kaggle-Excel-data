@@ -17,3 +17,11 @@ German_Car_Sales_Analysis: 3 sheets are created from original Car_sales sheet, n
 2. Scatter Chart sheet: In this sheet, cars are filtered down to **Audi, BMW, Mercedes-B, Porsche, Volkswagen** cars by Manufacturer column; and then Price is compared with Resale Value using Scatter chart.
 
 3. Histogram Chart sheet: In this sheet, cars are filtered down to **Audi, BMW, Mercedes-B, Porsche, Volkswagen** cars by Manufacturer column; and then a Histogram chart is used to display the Count of German Car Models by 3 equally distributed Price ranges.
+
+
+Car_Sales_Dashboard: In this sheet, a **Dashboard** is created using 4 charts and 2 filter to interact with the dashboard. The Manufacturer filter changes the **Average Price and Year Resale Value of Car companies** bar chart while the Model filter changes other three charts.
+
+1. Bar Chart: It is displaying Average Price and Year Resale Value of German Car Models.
+2. Pie Chart: It is displaying Price Retention Percent of Car models.
+3. Column Chart: It is displaying Power Perf Factor of Car models.
+4. Sunbust Chart: It is displaying Unit Sales of Car models.
