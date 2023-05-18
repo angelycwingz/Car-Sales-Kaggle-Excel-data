@@ -9,3 +9,7 @@ Car_Sales_Kaggle: 4 sheets are created from original Car_sales sheet, namely Col
 
 4. Line Chart sheet: In this sheet, A Pivot Table is created of cars' Average Retention Percent which are filtered down to only Japanese car companies by Row Labels; and then a line chart is generated showing the Average Retention % of Japanese Auto Manufacturers. 
  
+
+German_Car_Sales_Analysis: 3 sheets are created from original Car_sales sheet, namely Treemap Chart, Scatter Chart, and Histogram Chart respectively.
+
+1. Treemap chart Sheet: In this sheet, cars are filtered down to only Nissan cars by Manufacturer column; and then a Column chart is generated displaying the Power Perf Factor of Toyota cars.
